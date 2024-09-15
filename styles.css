@@ -200,6 +200,7 @@ button:hover {
     display: flex;
     flex-direction: column;
     gap: 30px;
+    font-size: 1.1rem;
 }
 
 .announcement h2, .trending h2 {
